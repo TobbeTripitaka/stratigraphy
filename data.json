@@ -63,9 +63,10 @@
     { "name":"Pliensbachian", "from":182.7, "to":190.8, "fromDelta":0.7, "toDelta":1.0 },
     { "name":"Sinemurian", "from":190.8, "to":199.3, "fromDelta":1.0, "toDelta":0.3 },
     { "name":"Hettangian", "from":199.3, "to":201.3, "fromDelta":0.3, "toDelta":0.2 },
-
-
     { "name":"Triassic", "from":201.3, "to":252.17, "fromDelta":0.02, "toDelta":0.06 },
+    { "name":"Upper", "from":201.3, "to":237, "fromDelta":0.02, "toDelta":0.0 },
+    { "name":"Middle", "from":237, "to":247.2, "fromDelta":0.0, "toDelta":0.0 },
+    { "name":"Lower", "from":201.3, "to":252.17, "fromDelta":0.0, "toDelta":0.06 },
 
     { "name":"Paleozoic", "from":252.17, "to":541, "fromDelta":0.06, "toDelta":1.0 },
     { "name":"Precambrian", "from":541, "to":4600, "fromDelta":1.0, "toDelta":0 },
