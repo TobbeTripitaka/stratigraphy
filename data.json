@@ -75,7 +75,12 @@
     { "name":"Olenekian", "from":201.3, "to":251.2, "fromDelta":0.0, "toDelta":0.06 },
     { "name":"Induan", "from":251.2, "to":252.17, "fromDelta":0.0, "toDelta":0.06 },
     { "name":"Paleozoic", "from":252.17, "to":541, "fromDelta":0.06, "toDelta":1.0 },
-    
+    { "name":"Permian", "from":252.17, "to":298.9, "fromDelta":0.06, "toDelta":0.15 },
+    { "name":"Lopingian", "from":252.17, "to":259.8, "fromDelta":0.06, "toDelta":0.04 },
+    { "name":"Guadalupian", "from":259.8, "to":272.3, "fromDelta":0.04, "toDelta":0.5 },
+    { "name":"Cisuralian", "from":272.3, "to":298.9, "fromDelta":0.5, "toDelta":0.15 },
+
+
     { "name":"Precambrian", "from":541, "to":4600, "fromDelta":1.0, "toDelta":0 },
     { "name":"Proterozoic", "from":541, "to":2500, "fromDelta":0, "toDelta":0.0 },
     { "name":"Archean", "from":2500, "to":4600, "fromDelta":0, "toDelta":0 }
