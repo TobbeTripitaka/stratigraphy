@@ -88,7 +88,12 @@
     { "name":"Artinskian", "from":283.5, "to":290.1, "fromDelta":0.6, "toDelta":0.26 },
     { "name":"Sakmarian", "from":290.1, "to":295.0, "fromDelta":0.26, "toDelta":0.18 },
     { "name":"Asselian", "from":295.0, "to":298.9, "fromDelta":0.18, "toDelta":0.15 },
-
+    { "name":"Carboniferous", "from":298.9, "to":358.9, "fromDelta":0.15, "toDelta":0.4 },
+    
+    { "name":"Devonian", "from":358.9, "to":419.2, "fromDelta":0.4, "toDelta":3.2 },
+    { "name":"Silurian", "from":419.2, "to":443.4, "fromDelta":3.2, "toDelta":1.5 },
+    { "name":"Ordovician", "from":443.4, "to":485.4, "fromDelta":1.5, "toDelta":1.9 },
+    { "name":"Cambrian", "from":485.4, "to":541, "fromDelta":1.9, "toDelta":1.0 },
 
 
     { "name":"Precambrian", "from":541, "to":4600, "fromDelta":1.0, "toDelta":0 },
