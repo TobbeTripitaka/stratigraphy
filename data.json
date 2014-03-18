@@ -174,13 +174,10 @@
     { "name":"Rhyacian", "from":2050, "to":2300, "fromDelta":0, "toDelta":0.0 },
     { "name":"Siderian", "from":2300, "to":2500, "fromDelta":0, "toDelta":0.0 },
 
-    { "name":"Archean", "from":2500, "to":4600, "fromDelta":0, "toDelta":0 }
-    { "name":"Neoarchean", "from":2500, "to":2800, "fromDelta":0, "toDelta":0 }
-    { "name":"Mesoarchean", "from":2800, "to":3200, "fromDelta":0, "toDelta":0 }
-    { "name":"Paleoarchean", "from":3200, "to":3600, "fromDelta":0, "toDelta":0 }
-    { "name":"Eoarchean", "from":3600, "to":4000, "fromDelta":0, "toDelta":0 }
-    
+    { "name":"Archean", "from":2500, "to":4600, "fromDelta":0, "toDelta":0 },
+    { "name":"Neoarchean", "from":2500, "to":2800, "fromDelta":0, "toDelta":0 },
+    { "name":"Mesoarchean", "from":2800, "to":3200, "fromDelta":0, "toDelta":0 },
+    { "name":"Paleoarchean", "from":3200, "to":3600, "fromDelta":0, "toDelta":0 },
+    { "name":"Eoarchean", "from":3600, "to":4000, "fromDelta":0, "toDelta":0 },
     { "name":"Hadean", "from":4000, "to":4600, "fromDelta":0, "toDelta":0 }
-
-    
 ]
